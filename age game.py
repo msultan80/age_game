@@ -2,7 +2,7 @@
 # APP fun age game
 #################
 
-print('welcome to my first app in python language coding')
+print('welcome funny age game')
 print('#' * 80)
 yourname = input(' what\'s your name ?').strip().capitalize()
 yourage = input('please input your age : ')
