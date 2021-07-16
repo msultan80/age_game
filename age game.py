@@ -14,6 +14,6 @@ minutes = hours * 60
 
 
 print(f'thank you to use my app')
-print('this is not integer, please write your age')
+#print('this is not integer, please write your age')
 print(f'hello ,{yourname} your in months {int(yourage) * 12} and in weeks {int(yourage) * weeks} and days {int(yourage) * days} and in hours {int(yourage) * hours} and minutes {int(yourage) * minutes} ')
 print('#' * 80)
